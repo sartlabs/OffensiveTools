@@ -1,0 +1,1 @@
+This is the collection of Offensive Powershell scripts useful during the Red Teaming
